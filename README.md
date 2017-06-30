@@ -1,4 +1,4 @@
-# urban-couscous
+# data-couscous
 Colección personal de datasets random.
 
 My random dataset collection; credits and descriptions included.
@@ -35,5 +35,5 @@ Fuentes inagotables de práctica:
 
 Archivo | Descripcion
 ------------ | -------------
-moneyball.csv | Content from cell 2
-Content in the first column | Content in the second column
+baseball.csv | Datos cool para ejercicio de replicación de Moneyball (dividir en 2002 si te crees Billy Bean).
+flu-epidemics | Extracto de datos del Google Flu Project, para intentar predecir ocurrencias de influenza con search Queries. (Intro a modelos ARIMA por ejemplo.)
