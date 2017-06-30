@@ -36,4 +36,4 @@ Fuentes inagotables de práctica:
 Archivo | Descripcion
 ------------ | -------------
 baseball.csv | Datos cool para ejercicio de replicación de Moneyball (dividir en 2002 si te crees Billy Bean).
-flu-epidemics | Extracto de datos del Google Flu Project, para intentar predecir ocurrencias de influenza con search Queries. (Intro a modelos ARIMA por ejemplo.)
+flu-epidemics | Extracto de datos del Google Flu Project, para intentar predecir ocurrencias de influenza con search Queries. (Intro cool a modelos ARIMA por ejemplo.)
