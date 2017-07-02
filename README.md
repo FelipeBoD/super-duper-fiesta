@@ -9,7 +9,7 @@ My random dataset collection; credits and descriptions included.
 Fuentes inagotables de práctica:
 
 * [Inter-American Development Bank datasets](https://data.iadb.org/DataCatalog/Dataset)
- * IDB’s portal that showcases socio-economic indicators for the Latin American and the Caribbean Region. It is a joint partnership between seven data sources.
+  * IDB’s portal that showcases socio-economic indicators for the Latin American and the Caribbean Region. It is a joint partnership between seven data sources.
 
 * [US Data.gov](http://www.data.gov/) 
   * The home of the U.S. Government’s open data
